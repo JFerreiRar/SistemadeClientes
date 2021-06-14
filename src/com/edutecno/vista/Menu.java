@@ -56,8 +56,7 @@ public class Menu extends MenuTemplate{
 
 	@Override
 	public void editarCliente() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Siga participando! jajaja ");		
 	}
 	@Override
 	public void importarDatos() {
